@@ -29,4 +29,7 @@
 <p><i> Default admin username: admin</i></p>
 <p> <i> Default admin password: admin</i></p>
 
+<p>There are not items added</p>
+<p>You wont see anything on home page unless you add someting</p>
+
 <p> Done! </p>
