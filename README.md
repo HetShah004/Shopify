@@ -26,4 +26,7 @@
   <li>Open browser and type "127.0.0.1:8000"</li>
 </ol>
 
+<i> Default admin username: admin</i>
+<i> Default admin password: admin</i>
+
 <p> Done! </p>
