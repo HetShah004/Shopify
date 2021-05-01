@@ -25,8 +25,8 @@
   <pre>py manage.py runserver</pre>
   <li>Open browser and type "127.0.0.1:8000"</li>
 </ol>
-
-<i> Default admin username: admin</i>
-<i> Default admin password: admin</i>
+<br>
+<p><i> Default admin username: admin</i></p>
+<p> <i> Default admin password: admin</i></p>
 
 <p> Done! </p>
